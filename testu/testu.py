@@ -1,5 +1,5 @@
 import discord
-from discord.ext import commands
+from discord.ext import commands, tasks
 
 class testù(commands.Cog):
       def __init__(self, bot):
